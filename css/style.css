@@ -21,16 +21,12 @@ body{
 }
 
 .card{
-background-color: #666666;
-border: 1px solid #eeee;
-border-radius: 8px;
-width: 30%;
-}
-
-.card__img{
-    background-color: #352c2c;
     background-image: url(../src/img/cat.jpeg);
     background-position: center;
     background-size: cover;
     background-blend-mode: multiply;
+    background-color: #352c2c;
+    border: 1px solid #eeee;
+    border-radius: 8px;
 }
+
