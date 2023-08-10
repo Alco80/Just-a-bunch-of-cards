@@ -11,4 +11,17 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Open Sans', sans-serif;
+    background-color: #333333;
+}
+
+/*  MAIN BODY GRID CONTAINER */
+
+.grid-container{
+    display: grid;
+}
+
+.card{
+background-color: #666666;
+border: 1px solid #eeee;
+border-radius: 8px;
 }
